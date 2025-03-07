@@ -1,0 +1,4 @@
+[build]
+  base = "my-react-app"
+  publish = "my-react-app/build"
+  command = "npm install && npm run build"
